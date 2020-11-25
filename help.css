@@ -1,0 +1,18 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+    color: white;
+}
+
+#header_help {
+    font-size: 45px;
+    color: rgb(0, 162, 255);
+}
+
+#help {
+    position: relative;
+    top: 25px;
+}
+
+body {
+    background-image: url("https://i.ytimg.com/vi/mUYfkEC1Meg/maxresdefault.jpg");
+}
